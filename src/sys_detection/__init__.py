@@ -37,7 +37,7 @@ SHORT_LINUX_OS_NAMES = [
     'opensuse-tumbleweed',
     'arch',
     'manjaro',
-    'amzn'
+    'amzn2'
 ]
 
 SHORT_OS_NAMES = ['macos'] + SHORT_LINUX_OS_NAMES
